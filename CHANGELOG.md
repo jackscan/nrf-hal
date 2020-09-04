@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+(no entries)
+
 ## [0.11.1]
 
 ### New Features
